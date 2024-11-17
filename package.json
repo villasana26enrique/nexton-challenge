@@ -1,0 +1,27 @@
+{
+  "name": "nexton-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/villasana26enrique/nexton-challenge.git"
+  },
+  "author": "Enrique Villasana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/villasana26enrique/nexton-challenge/issues"
+  },
+  "homepage": "https://github.com/villasana26enrique/nexton-challenge#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "express-async-handler": "^1.2.0"
+  }
+}
