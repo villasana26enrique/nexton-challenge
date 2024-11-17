@@ -4,11 +4,11 @@ The recommended Node.js version for this project is **22.11.0**.
 
 ## Installation
 To install the project dependencies, run the following command:
-```batch npm install```
+```npm install```
 
 ## Running The Server
 To start the server, execute the following command:
-```batch npm start```
+```npm start```
 
 ## API Endpoint
 To use the calculator API, make a POST request to the following URL:
